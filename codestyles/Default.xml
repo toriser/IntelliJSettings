@@ -1,0 +1,5 @@
+<code_scheme name="Default">
+  <option name="USE_EXTERNAL_ANNOTATIONS" value="true" />
+  <option name="REPLACE_INSTANCEOF" value="true" />
+  <option name="REPLACE_CAST" value="true" />
+</code_scheme>

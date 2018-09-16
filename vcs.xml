@@ -1,0 +1,35 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://toriser@bitbucket.org/kinemalogic/msf.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://toriser@bitbucket.org/kinemalogic/stash.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://toriser@bitbucket.org/kinemalogic/kilowarehousemodel.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://toriser@bitbucket.org/kinemalogic/kilowarehousemodels.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="toriser" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_DIFF_PREVIEW" value="true" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_LST_GUTTER_MARKERS" value="false" />
+  </component>
+</application>

@@ -1,0 +1,68 @@
+<code_scheme name="Kinema Logic">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="9999" />
+  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1" />
+  <option name="RIGHT_MARGIN" value="80" />
+  <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
+  <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
+  <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
+  <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
+  <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
+  <option name="WRAP_COMMENTS" value="true" />
+  <ScalaCodeStyleSettings>
+    <option name="classCountToUseImportOnDemand" value="99" />
+    <option name="collectImports" value="false" />
+    <option name="USE_SCALADOC2_FORMATTING" value="false" />
+    <option name="CALL_PARAMETERS_NEW_LINE_AFTER_LPAREN" value="1" />
+    <option name="MULTILINE_STRING_SUPORT" value="1" />
+    <option name="PROCESS_MARGIN_ON_COPY_PASTE" value="false" />
+    <option name="SD_ALIGN_OTHER_TAGS_COMMENTS" value="false" />
+    <option name="SD_ALIGN_PARAMETERS_COMMENTS" value="false" />
+    <option name="SD_ALIGN_EXCEPTION_COMMENTS" value="false" />
+    <option name="SD_ALIGN_RETURN_COMMENTS" value="false" />
+    <option name="SD_BLANK_LINE_AFTER_PARAMETERS_COMMENTS" value="true" />
+    <option name="SD_BLANK_LINE_AFTER_RETURN_COMMENTS" value="true" />
+    <option name="SD_BLANK_LINE_BETWEEN_PARAMETERS" value="true" />
+    <option name="SD_BLANK_LINE_BEFORE_PARAMETERS" value="true" />
+    <option name="SD_KEEP_BLANK_LINES_BETWEEN_TAGS" value="true" />
+    <option name="ENFORCE_FUNCTIONAL_SYNTAX_FOR_UNIT" value="false" />
+  </ScalaCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="JAVA">
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+    <option name="CALL_PARAMETERS_WRAP" value="1" />
+    <option name="METHOD_PARAMETERS_WRAP" value="1" />
+    <option name="EXTENDS_LIST_WRAP" value="1" />
+    <option name="THROWS_LIST_WRAP" value="1" />
+    <option name="EXTENDS_KEYWORD_WRAP" value="1" />
+    <option name="THROWS_KEYWORD_WRAP" value="1" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
+    <option name="BINARY_OPERATION_WRAP" value="1" />
+    <option name="TERNARY_OPERATION_WRAP" value="1" />
+    <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="1" />
+    <option name="ASSIGNMENT_WRAP" value="1" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Scala">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_FOR" value="false" />
+    <option name="CALL_PARAMETERS_WRAP" value="5" />
+    <option name="METHOD_PARAMETERS_WRAP" value="5" />
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="EXTENDS_LIST_WRAP" value="5" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
+    <option name="BINARY_OPERATION_WRAP" value="5" />
+    <option name="FOR_STATEMENT_WRAP" value="5" />
+    <option name="WRAP_LONG_LINES" value="true" />
+  </codeStyleSettings>
+</code_scheme>

@@ -1,0 +1,64 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Dropbox (kinemalogic)/KinemaLogicShare/CodingStandards/IntelliJ/Kinema Logic IDEA Code Style v2.xml" />
+  </component>
+  <component name="JavaDocSyncPlugin">
+    <option name="checkInnerClasses" value="true" />
+    <option name="checkAnonymousClasses" value="true" />
+    <option name="methodDetectionLevel" value="private" />
+  </component>
+  <component name="JavaFxSettings">
+    <option name="pathToSceneBuilder" value="/opt/JavaFXSceneBuilder2.0/JavaFXSceneBuilder2.0" />
+    <option name="myPathToSceneBuilder" value="/opt/JavaFXSceneBuilder2.0/JavaFXSceneBuilder2.0" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.0.0/bin/node">
+      <version-cache version="8.0.0" last-modified="1496164726000" />
+    </local-interpreter>
+  </component>
+  <component name="Quick Notes by Jitendra Rana">
+    <option name="selectednoteindex" value="0" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="true" url="https://kinemalogic.atlassian.net">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dff5dffedfc5dfd8df9fdf9adf9edff5dfeadff5</password>
+      <option name="inCloud" value="true" />
+      <option name="jiraVersion" value="1001.0.0-SNAPSHOT" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>robert.toriser@kinemalogic.com</username>
+    </JIRA>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="WebServicesPluginSettings">
+    <StubPackage>com.kinemalogic.emu.config</StubPackage>
+    <StubPackage>com.kinemalogic.emu</StubPackage>
+    <JAXBUrl>file:$USER_HOME$/IdeaProjects/kilowhemulator/kilo_wh_emu/src/main/resources/emucfg.xsd</JAXBUrl>
+    <JAXBUrl>file:$USER_HOME$/work/kilowhemulator/kilo_wh_emu/src/main/resources/emucfg.xsd</JAXBUrl>
+    <JAXBUrl>file:$USER_HOME$/work/kilowhemulator/src/main/resources/emucfg.xsd</JAXBUrl>
+  </component>
+  <component name="com.perniciouspenguins.ideaz.javadoc.JavaDocSyncPlugin">
+    <option name="checkInnerClasses" value="true" />
+    <option name="checkAnonymousClasses" value="true" />
+    <option name="methodDetectionLevel" value="private" />
+  </component>
+</application>
